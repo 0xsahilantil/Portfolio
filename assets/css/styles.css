@@ -138,6 +138,7 @@ img {
     padding: 2rem;
     background-color: var(--second-color);
     transition: .5s;
+    backdrop-filter: saturate(180%) blur(20px);
     
   }
 }
